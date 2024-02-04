@@ -42,7 +42,7 @@ jobs:
           npm install
           npx @11ty/eleventy
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v3
 
   # Deployment job
   deploy:
