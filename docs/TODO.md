@@ -1,5 +1,11 @@
 # TODO
 
+## Active
+
+- fix routing issue
+
+## Backlog
+
 - Fill out About Me page
 - Remove default header
 - Create custom header (picture?)
@@ -12,3 +18,5 @@
 - links to socials
 - RSS feed
 - CSS
+
+## Done

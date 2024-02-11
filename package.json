@@ -10,27 +10,6 @@
 		"debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
 		"benchmark": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
 	},
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/11ty/eleventy-base-blog.git"
-	},
-	"author": {
-		"name": "Zach Leatherman",
-		"email": "zachleatherman@gmail.com",
-		"url": "https://zachleat.com/"
-	},
-	"license": "MIT",
-	"engines": {
-		"node": ">=14"
-	},
-	"funding": {
-		"type": "opencollective",
-		"url": "https://opencollective.com/11ty"
-	},
-	"bugs": {
-		"url": "https://github.com/11ty/eleventy-base-blog/issues"
-	},
-	"homepage": "https://github.com/11ty/eleventy-base-blog#readme",
 	"devDependencies": {
 		"@11ty/eleventy": "^2.0.1",
 		"@11ty/eleventy-img": "^3.1.1",
