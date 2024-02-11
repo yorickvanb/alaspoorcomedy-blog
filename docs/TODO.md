@@ -2,8 +2,6 @@
 
 ## Active
 
-- fix routing issue
-
 ## Backlog
 
 - Fill out About Me page
@@ -20,3 +18,5 @@
 - CSS
 
 ## Done
+
+- fix routing issue
