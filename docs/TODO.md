@@ -11,11 +11,14 @@
 - Add posts
   - Alas Poor Comedy YT posts
   - Theatre shows
+- Get ideas from: localghost.dev
+  - code: https://github.com/sophiekoonin/localghost
 - front page should show post contents
 - search by tag (page that lists tags, or maybe sidebar?)
 - links to socials
 - RSS feed
 - CSS
+- Newsletter
 
 ## Done
 
