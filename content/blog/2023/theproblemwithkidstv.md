@@ -1,6 +1,6 @@
 ---
 title: The Problem with Kids' TV
-description: In which I deal with having to hear the same show on TV over and over again.
+description: In which I deal with the same TV show over and over again.
 date: 2023-09-15
 draft: false
 tags:

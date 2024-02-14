@@ -105,10 +105,18 @@ header:after {
 	clear: both;
 }
 
-.links-nextprev {
+.links-prevnext {
 	list-style: none;
 	border-top: 1px dashed var(--color-gray-20);
 	padding: 1em 0;
+}
+
+.links-prev {
+  text-align: left;
+}
+
+.links-next {
+  text-align: right;
 }
 
 table {
@@ -218,6 +226,10 @@ header {
 }
 .postlist-item-active .postlist-link {
 	font-weight: bold;
+}
+
+.postlist-description {
+	flex-basis: calc(100% - 1.5rem);
 }
 
 /* Tags */

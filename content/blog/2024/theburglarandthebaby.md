@@ -1,6 +1,6 @@
 ---
 title: The Burglar and the Baby
-description: In which a burglar tries the wrong window.
+description: In which a burglar goes in through the wrong window.
 date: 2024-01-12
 draft: false
 tags:

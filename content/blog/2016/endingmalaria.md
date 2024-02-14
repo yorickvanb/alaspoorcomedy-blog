@@ -1,6 +1,6 @@
 ---
 title: How YOU can end malaria
-description: description
+description: In which I am encouraged to end malaria RIGHT NOW.
 date: 2016-10-28
 draft: false
 tags:

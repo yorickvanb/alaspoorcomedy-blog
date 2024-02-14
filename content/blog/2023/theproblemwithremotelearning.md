@@ -1,6 +1,6 @@
 ---
 title: The Problem with Remote Learning
-description: In which I deal with having to hear the same show on TV over and over again.
+description: Ancient Philosophy was never this dangerous.
 date: 2023-11-24
 draft: false
 tags:

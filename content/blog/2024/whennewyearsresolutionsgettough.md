@@ -1,6 +1,6 @@
 ---
 title: When New Year's Resolutions Get Tough
-description: It's the middle of January, and I've had enough of eating apples every day.
+description: It's mid January, and I've had enough of apples.
 date: 2024-01-12
 draft: false
 tags:
