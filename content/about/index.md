@@ -1,9 +1,11 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Me
+  key: about
   order: 3
 ---
-# About Me
 
-I am a person that writes stuff.
+# About me
+
+I am Yorick and I am a passionate actor, writer, director and editor.
+I love stories and silly things. That's why I make comedy.

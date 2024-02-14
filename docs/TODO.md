@@ -4,22 +4,25 @@
 
 ## Backlog
 
-- Fill out About Me page
-- Remove default header
-- Create custom header (picture?)
-- Get a domain
 - Add posts
   - Alas Poor Comedy YT posts
   - Theatre shows
+- Fill out About Me page
+- Get a domain
 - Get ideas from: localghost.dev
   - code: https://github.com/sophiekoonin/localghost
 - front page should show post contents
-- search by tag (page that lists tags, or maybe sidebar?)
-- links to socials
 - RSS feed
-- CSS
+- Style the site
 - Newsletter
+- links to socials
 
 ## Done
 
+- Remove default header
+- search by tag (page that lists tags, or maybe sidebar?)
 - fix routing issue
+
+## Won't Do
+
+- Create custom header (picture?)

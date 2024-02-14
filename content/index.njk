@@ -1,13 +1,18 @@
 ---
 layout: layouts/home.njk
 eleventyNavigation:
-  key: Home
+  key: home
   order: 1
-numberOfLatestPostsToShow: 3
+numberOfLatestPostsToShow: 5
 ---
+<h1>I'm Yorick. I make comedy.</h1>
+
+I am Yorick and I am a passionate actor, writer, director and editor.
+I love stories and silly things. That's why I make comedy.
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+<h2>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h2>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
