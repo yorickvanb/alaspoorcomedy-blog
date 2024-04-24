@@ -4,11 +4,8 @@ description: New Milksoup sketch about some ASBOs
 date: 2015-11-13
 draft: false
 tags:
-  - milksoup
-  - sketch
-  - acting
-  - writing
-  - editing
+  - sketch comedy
+youtubelink: https://www.youtube.com/embed/Qs_WLSIF4hw?si=p8Bz2BQxHNm-HKQS
 ---
 
 In which two ASBOs have a fundamental disagreement about the concepts of theoretical physics.

@@ -4,10 +4,8 @@ description: In which I am encouraged to end malaria RIGHT NOW.
 date: 2016-10-28
 draft: false
 tags:
-  - milksoup
-  - sketch
-  - acting
-  - editing
+  - sketch comedy
+youtubelink: https://www.youtube.com/embed/GSHWmtb9YLw?si=MYd83SnQHiMmYTLT
 ---
 
 A new Milksoup sketch, in which I am encouraged to end malaria RIGHT NOW. It does not go as planned.

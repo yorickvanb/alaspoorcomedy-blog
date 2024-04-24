@@ -4,10 +4,8 @@ description: Nico hosts a cooking show. All by himself.
 date: 2024-02-16
 draft: false
 tags:
-  - sketch
-  - writing
-  - acting
-  - editing
+  - sketch comedy
+youtubelink: https://www.youtube.com/embed/YwshiGGklmw?si=bOi2CBdMEQVDQQQX
 ---
 
 Nico hosts a cooking show. All by himself.

@@ -10,7 +10,9 @@ numberOfLatestPostsToShow: 5
 I am Yorick and I am a passionate actor, writer, director and editor.
 I love stories and silly things. That's why I make comedy.
 
-{% set postsCount = collections.posts | length %}
+{% include "./tags-list.njk" %}
+
+{# {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h2>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h2>
 
@@ -21,7 +23,7 @@ I love stories and silly things. That's why I make comedy.
 {% set morePosts = postsCount - numberOfLatestPostsToShow %}
 {% if morePosts > 0 %}
 <p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
-{% endif %}
+{% endif %} #}
 
 {# List every content page in the project #}
 {#
