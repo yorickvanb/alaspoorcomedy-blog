@@ -4,10 +4,8 @@ description: In which I deal with the same TV show over and over again.
 date: 2023-09-15
 draft: false
 tags:
-  - sketch
-  - writing
-  - acting
-  - editing
+  - sketch comedy
+youtubelink: https://www.youtube.com/embed/stBNzsvpS7g?si=sLt0STvWb_YIBnWq
 ---
 
 This is the first sketch of my new comedy channel, [Alas Poor Comedy](https://www.youtube.com/@AlasPoorComedy).

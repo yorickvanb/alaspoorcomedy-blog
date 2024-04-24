@@ -4,11 +4,8 @@ description: I started a sketch comedy channel! This is the first video.
 date: 2015-06-11
 draft: false
 tags:
-  - milksoup
-  - sketch
-  - acting
-  - writing
-  - editing
+  - sketch comedy
+youtubelink: https://www.youtube.com/embed/RgsNhWn0AHI?si=8v2_HwP_ecxjY3br
 ---
 
 I started a sketch comedy channel! This is the first video, where John finds out why you should clean your fridge once in a while.

@@ -4,7 +4,8 @@ description: In which I talk about living in a different country and, somehow, p
 date: 2015-01-14
 draft: false
 tags:
-  - standup
+  - standup comedy
+youtubelink: https://www.youtube.com/embed/YY8F13pItNk?si=Aep7aOdyVGiQMfO5
 ---
 
 In which I talk about living in a different country and, somehow, parsnips.

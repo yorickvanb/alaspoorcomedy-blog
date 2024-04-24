@@ -4,11 +4,8 @@ description: Sketch about the worst car salesman in the world
 date: 2016-04-07
 draft: false
 tags:
-  - milksoup
-  - sketch
-  - writing
-  - directing
-  - editing
+  - sketch comedy
+youtubelink: https://www.youtube.com/embed/l4tz2Ky6928?si=Zfl1LQVHTX7r7Gpi
 ---
 
 A new sketch, this time about the worst car salesman in the world.

@@ -1,14 +1,16 @@
----
+{# ---
 permalink: /tags/
 layout: layouts/home.njk
 ---
 <h1>Tags</h1>
 
-<p>See <a href="/blog/">all posts</a>.</p>
+<p>See <a href="/blog/">all posts</a>.</p> #}
 
-<ul>
-{% for tag in collections.all | getAllTags | filterTagList %}
-	{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a></li>
-{% endfor %}
-</ul>
+<div class="cards">
+  {% for tag in collections.all | getAllTags | filterTagList %}
+    <div class="small-card">
+	    {% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+	      <a href="{{ tagUrl }}" class="card-title">{{ tag }}</a>
+      </div>
+    {% endfor %}
+</div>
