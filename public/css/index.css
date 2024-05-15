@@ -238,20 +238,8 @@ header {
 
 .postlist-description {
 	flex-basis: calc(100% - 1.5rem);
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
-
-.postlist-video {
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
-
-
-.postlist-image {
-	/* flex-basis: calc(100% - 15rem); */
-  max-width: 10em;
-  height: auto;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 /* Tags */

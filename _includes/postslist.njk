@@ -25,17 +25,17 @@
         {% endif %}
       </a>
 
-      {% if post.data.youtubelink %}
+      {# {% if post.data.youtubelink %}
         <div class="postlist-video">
           <iframe src="{{post.data.youtubelink}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
-      {% endif %}
-
-      {# {% if post.data.yt_video_id %}
-        <div class="postlist-image">
-          <img src="https://img.youtube.com/vi/{{post.data.yt_video_id}}/hqdefault.jpg"/>
-        </div>
       {% endif %} #}
+
+      {% if post.data.youtube_video_id %}
+      <div class="postlist-video-div">
+        <img class="postlist-video-image" src="https://img.youtube.com/vi/{{post.data.youtube_video_id}}/hqdefault.jpg"><img class="postlist-video-playbtn" postlist-video-playbtn src="/_includes/assets/youtube_play_button.svg">
+      </div>
+      {% endif %}
 
 
 

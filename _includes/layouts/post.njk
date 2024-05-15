@@ -14,7 +14,18 @@ layout: layouts/base.njk
 	{%- endfor %}
 </ul>
 
+
+{% if youtube_video_id %}
+  <p>
+    <div class='video'>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/{{youtube_video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+  </p>
+{% endif %}
+
+<p>
 {{ content | safe }}
+</p>
 
 {%- if collections.posts %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem %}
