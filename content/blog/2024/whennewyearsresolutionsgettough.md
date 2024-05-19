@@ -1,11 +1,9 @@
 ---
 title: When New Year's Resolutions Get Tough
-description: It's mid January, and I've had enough of apples.
+description: It's mid January, and at this point, you've had enough of apples.
 date: 2024-01-12
 draft: false
 tags:
   - sketch comedy
-youtubelink: https://www.youtube.com/embed/EpQysDEkOOQ?si=XkNXSXUz6wVyvmVy
+youtube_video_id: EpQysDEkOOQ
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EpQysDEkOOQ?si=XkNXSXUz6wVyvmVy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

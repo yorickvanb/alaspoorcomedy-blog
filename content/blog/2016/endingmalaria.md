@@ -1,13 +1,11 @@
 ---
 title: How YOU can end malaria
-description: In which I am encouraged to end malaria RIGHT NOW.
+description: Find out how YOU can end malaria RIGHT NOW.
 date: 2016-10-28
 draft: false
 tags:
   - sketch comedy
-youtubelink: https://www.youtube.com/embed/GSHWmtb9YLw?si=MYd83SnQHiMmYTLT
+youtube_video_id: GSHWmtb9YLw
 ---
 
 A new Milksoup sketch, in which I am encouraged to end malaria RIGHT NOW. It does not go as planned.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GSHWmtb9YLw?si=MYd83SnQHiMmYTLT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
