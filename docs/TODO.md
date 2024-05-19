@@ -2,11 +2,23 @@
 
 ## Active
 
-## Backlog
-
+- YT video thumbnails in posts list
+- custom thumbnails in posts list
+- center the header
+- make logo
+- post page: style: center the video
 - Add posts
   - Theatre shows
+    - Theaterwerkplaats
+    - Central School
+    - City Academy
+    - WKT
+  - Acting theory / swipefile
+
+## Backlog
+
 - Fill out About Me page
+- footer
 - Add sketches from Bonte Werkplaats
 - Get a domain
 - Get ideas from: localghost.dev
@@ -15,7 +27,6 @@
 - RSS feed
 - Style the site
 - Newsletter
-- Join the IndieWeb: https://indieweb.org/
 - links to socials
 
 ## Done

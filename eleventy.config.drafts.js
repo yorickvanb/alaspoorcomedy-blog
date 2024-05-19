@@ -30,7 +30,7 @@ module.exports.eleventyComputedExcludeFromCollections = eleventyComputedExcludeF
 module.exports = eleventyConfig => {
 	eleventyConfig.addGlobalData("eleventyComputed.permalink", eleventyComputedPermalink);
 	eleventyConfig.addGlobalData("eleventyComputed.eleventyExcludeFromCollections", eleventyComputedExcludeFromCollections);
-
+  eleventyConfig.addPassthroughCopy("_includes/assets");
 	let logged = false;
 	eleventyConfig.on("eleventy.before", ({runMode}) => {
 		let text = "Excluding";
