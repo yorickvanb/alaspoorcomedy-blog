@@ -15,6 +15,13 @@ body { padding: 1rem; } */
   height: 10rem;
 }
 
+.medium-card {
+  background-color: #233546;
+  color: white;
+  padding: 1rem;
+  height: 12rem;
+}
+
 .cards {
     max-width: 1200px;
     margin: 0 auto;

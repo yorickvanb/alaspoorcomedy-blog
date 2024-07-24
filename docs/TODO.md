@@ -2,7 +2,8 @@
 
 ## Active
 
-- YT video thumbnails in posts list
+v YT video thumbnails in posts list
+
 - custom thumbnails in posts list
 - center the header
 - make logo
@@ -17,6 +18,7 @@
 
 ## Backlog
 
+- Tweetalig
 - Fill out About Me page
 - footer
 - Add sketches from Bonte Werkplaats
