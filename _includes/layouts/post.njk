@@ -18,7 +18,7 @@ layout: layouts/base.njk
 {% if youtube_video_id %}
   <p>
     <div class='video'>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/{{youtube_video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/{{youtube_video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
   </p>
 {% endif %}
@@ -33,10 +33,10 @@ layout: layouts/base.njk
 {%- if nextPost or previousPost %}
 <ul  class="links-prevnext">
   <div class="links-prev">
-    {%- if previousPost %}<li><-- <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+    {%- if previousPost %}<li>🠔 <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>{% endif %}
   </div>
 	<div class="links-next">
-    {%- if nextPost %}<li><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a> --></li>{% endif %}
+    {%- if nextPost %}<li><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a> 🠖</li>{% endif %}
   </div>
 
 </ul>
