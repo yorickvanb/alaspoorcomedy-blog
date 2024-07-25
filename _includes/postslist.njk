@@ -13,6 +13,10 @@
         <img class="postlist-video-image" src="https://img.youtube.com/vi/{{post.data.youtube_video_id}}/hqdefault.jpg">
         <img class="postlist-video-playbtn" src="/_includes/assets/youtube_play_button.svg">
       </div>
+      {% elif post.data.thumbnail %}
+      <div class="postlist-video-div">
+        <img src="/img/{{post.data.thumbnail}}">
+      </div>
       {% endif %}
 
       {% if post.data.description %}
