@@ -57,7 +57,7 @@ body {
 }
 
 header {
-	max-width: 40em;
+	max-width: 60em;
   align-items: center;
   align-self: center;
   align-content: center;
@@ -117,10 +117,15 @@ header:after {
 	list-style: none;
 	border-top: 1px dashed var(--color-gray-20);
 	padding: 1em 0;
+  text-transform: capitalize;
 }
 
 .links-prev {
   text-align: left;
+}
+
+.links-all {
+  text-align: center;
 }
 
 .links-next {
@@ -163,13 +168,13 @@ header {
 	display: flex;
 	gap: 1em .5em;
 	flex-wrap: wrap;
-	align-items: center;
-	padding: 1em;
+	align-items: left;
+	padding: 2em;
 }
 .home-link {
-	font-size: 1em; /* 16px /16 */
+	font-size: 2.5em; /* 16px /16 */
 	font-weight: 700;
-	margin-right: 2em;
+	margin-right: 1em; /* was: 2em */
 }
 .home-link:link:not(:hover) {
 	text-decoration: none;
@@ -180,7 +185,9 @@ header {
 	display: flex;
 	padding: 0;
 	margin: 0;
+  margin-left: 1em;
 	list-style: none;
+  font-size: 1.5em;
 }
 .nav-item {
 	display: inline-block;
