@@ -1,7 +1,7 @@
 ---
 title: Into Each Life Some Rain Must Fall
 description: My performance with the City Academy Theatre Company.
-date: 2015-01-01
+date: 2014-07-30
 draft: false
 tags:
   - theatre
@@ -9,6 +9,8 @@ thumbnail: ./into_each_life_1.png
 ---
 
 Performance of "Into Each Life Some Rain Must Fall", a production of the City Academy Theatre. In this story a young lady searches for new love after her jerk boyfriend cheats on her.
+
+{% image "./IntoEachLifeSomeRainMustFall_flyer.jpg", "City Academy Theatre Company invites you to Into Each Life Some Rain Must Fall" %}
 
 As a member of the Theater Company, I played the part of the jerk boyfriend.
 
