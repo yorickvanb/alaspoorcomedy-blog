@@ -36,7 +36,7 @@ layout: layouts/base.njk
     {% set postsListCurrentTag = collections[ tag ] %}
     {% if postsListCurrentTag %}
       {%- set previousPostCurrentTag = postsListCurrentTag | getPreviousCollectionItem %}
-      {%- set nextPostCurrentTag = postsListCurrentTag| getNextCollectionItem %}
+      {%- set nextPostCurrentTag = postsListCurrentTag | getNextCollectionItem %}
 
       <ul class="links-prevnext">
         <div class="links-prev">
@@ -50,7 +50,7 @@ layout: layouts/base.njk
         </div>
         <div class="links-next" align="center">
           {%- if nextPostCurrentTag %}
-            <li><a href="{{ nextPost.url }}">Next in {{tag}} 🠖</a></li>
+            <li><a href="{{ nextPostCurrentTag.url }}">Next in {{tag}} 🠖</a></li>
           {% endif %}
         </div>
 
