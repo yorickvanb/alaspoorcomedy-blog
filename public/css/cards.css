@@ -50,6 +50,7 @@ body { padding: 1rem; } */
   margin-left: auto;
   margin-right: auto;
   margin-top: 1rem;
+  overflow-y: hidden;
 }
 
 .postlist-video-image {

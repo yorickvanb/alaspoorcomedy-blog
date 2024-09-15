@@ -302,7 +302,6 @@ h2 + .header-anchor {
 picture,
 img {
   max-width: 100%;
-  width: auto;
   height: auto;
 }
 

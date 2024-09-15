@@ -4,7 +4,7 @@ description: My performance with the City Academy Theatre Company.
 date: 2015-01-01
 draft: false
 tags:
-  - theatre performances
+  - theatre
 thumbnail: ./into_each_life_1.png
 ---
 
