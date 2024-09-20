@@ -5,7 +5,7 @@ body { padding: 1rem; } */
   background-color: #233546;
   color: white;
   padding: 1rem;
-  height: 22rem;
+  height: 25rem;
 }
 
 .small-card {
@@ -45,7 +45,7 @@ body { padding: 1rem; } */
 .postlist-video-div {
   position: relative;
   width:250px;
-  height: 60%;
+  height: 55%;
   display: block;
   margin-left: auto;
   margin-right: auto;

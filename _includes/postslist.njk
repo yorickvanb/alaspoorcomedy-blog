@@ -1,6 +1,18 @@
 <div class="cards">
   {% for post in postslist | reverse %}
     <div class="card">
+      <ul class="post-metadata">
+        {%- for tag in  post.data.tags | filterTagList %}
+          {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+          <li>
+            <a href="{{ tagUrl }}" class="post-tag">
+              {{ tag }}
+            </a>
+            {%- if not loop.last %}, {% endif %}
+          </li>
+        {%- endfor %}
+      </ul>
+      <br>
       <a href="{{ post.url }}" class="postlist-link">
         {% if post.data.title %}{{ post.data.title }}
         {% else %}
@@ -22,7 +34,6 @@
       {% if post.data.description %}
             <div class="postlist-description">{{ post.data.description | trim | safe }}</div>
       {% endif %}
-
       <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL yyyy") }}</time>
     </div>
     {% endfor %}
