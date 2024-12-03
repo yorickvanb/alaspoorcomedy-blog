@@ -16,7 +16,7 @@ A star (<font color="ffdf0f">★</font>) means that I have completed the story f
 
 - December 1 (Oops, I started a day late...)
 - <font color="ffdf0f">★</font> [December 2](advent_of_stories_day_02/)
-- December 3
+- <font color="ffdf0f">★</font> [December 3](advent_of_stories_day_03/)
 - December 4
 - December 5
 - December 6
