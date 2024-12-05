@@ -1,5 +1,5 @@
 ---
-title: Advent of Stories - Day 2 - De Boomer en de Banaan<
+title: Advent of Stories - Day 2 - De Boomer en de Banaan
 description: Entry in the Advent of Stories series.
 date: 2024-12-02
 draft: false
