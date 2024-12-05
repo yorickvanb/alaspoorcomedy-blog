@@ -1,5 +1,5 @@
 ---
-title: Advent of Stories
+title: Advent of Stories - Overview
 description: This year I will write a story every day of Advent.
 date: 2024-11-30
 draft: false
@@ -15,10 +15,10 @@ This December, I will write a story every day of Advent. It can be in any form: 
 A star (<font color="ffdf0f">★</font>) means that I have completed the story for that day and the date will link to what I've written.
 
 - December 1 (Oops, I started a day late...)
-- <font color="ffdf0f">★</font> [December 2](advent_of_stories_day_02/)
-- <font color="ffdf0f">★</font> [December 3](advent_of_stories_day_03/)
+- <font color="ffdf0f">★</font> [December 2: De Boomer en de Banaan<](advent_of_stories_day_02/)
+- <font color="ffdf0f">★</font> [December 3: The Zoomer and the Snake](advent_of_stories_day_03/)
 - December 4
-- December 5
+- <font color="ffdf0f">★</font> [December 5: Bad Office Coffee](advent_of_stories_day_03/)
 - December 6
 - December 7
 - December 8

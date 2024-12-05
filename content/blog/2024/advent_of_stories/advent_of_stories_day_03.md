@@ -1,5 +1,5 @@
 ---
-title: Advent of Stories - Day 3
+title: Advent of Stories - Day 3 - The Zoomer and the Snake
 description: Entry in the Advent of Stories series.
 date: 2024-12-03
 draft: false
