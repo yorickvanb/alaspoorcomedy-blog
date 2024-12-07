@@ -20,7 +20,7 @@ A star (<font color="ffdf0f">★</font>) means that I have completed the story f
 - December 4
 - <font color="ffdf0f">★</font> December 5 - [Bad Office Coffee](advent_of_stories_day_05/)
 - <font color="ffdf0f">★</font> December 6 - [My Inner Voices](advent_of_stories_day_06/)
-- December 7
+- <font color="ffdf0f">★</font> December 7 - [Superfan Going Overboard](advent_of_stories_day_07/)
 - December 8
 - December 9
 - December 10
