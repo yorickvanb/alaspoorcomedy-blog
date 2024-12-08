@@ -1,13 +1,14 @@
 ---
-title: Advent of Stories - Day 5 - Bad Office Coffee
-description: Entry in the Advent of Stories series.
+title: Bad Office Coffee
+description: Day 5 entry in the Advent of Comedy series.
 date: 2024-12-05
 draft: false
 tags:
-  - advent of stories
+  - writing
+  - advent of comedy
 ---
 
-**Entry for the [Advent of Stories](../../advent_of_stories/).**
+**Entry for the [Advent of Comedy](../../advent_of_comedy/).**
 
 **Form: Script for a comedic sketch**
 

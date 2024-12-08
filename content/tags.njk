@@ -10,8 +10,6 @@ pagination:
     - tagList
   addAllPagesToCollections: true
 layout: layouts/home.njk
-eleventyComputed:
-  title: {{ tag }}
 permalink: /tags/{{ tag | slugify }}/
 ---
 <h1>{{ tag }}</h1>

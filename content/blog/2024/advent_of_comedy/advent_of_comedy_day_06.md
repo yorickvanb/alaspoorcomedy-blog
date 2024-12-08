@@ -1,13 +1,14 @@
 ---
-title: Advent of Stories - Day 6 - My Inner Voices
-description: Entry in the Advent of Stories series.
+title: My Inner Voices
+description: Day 6 Entry in the Advent of Comedy series.
 date: 2024-12-06
 draft: false
 tags:
-  - advent of stories
+  - writing
+  - advent of comedy
 ---
 
-**Entry for the [Advent of Stories](../../advent_of_stories/).**
+**Entry for the [Advent of Comedy](../../advent_of_comedy/).**
 
 **Form: Script for a comedic sketch**
 

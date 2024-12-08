@@ -1,13 +1,14 @@
 ---
-title: Advent of Stories - Day 3 - The Zoomer and the Snake
-description: Entry in the Advent of Stories series.
+title: The Zoomer and the Snake
+description: Day 3 entry in the Advent of Comedy series.
 date: 2024-12-03
 draft: false
 tags:
-  - advent of stories
+  - writing
+  - advent of comedy
 ---
 
-**Entry for the [Advent of Stories](../../advent_of_stories/).**
+**Entry for the [Advent of Comedy](../../advent_of_comedy/).**
 
 **Form: Script for a comedic sketch**
 

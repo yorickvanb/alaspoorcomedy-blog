@@ -1,13 +1,14 @@
 ---
-title: Advent of Stories - Day 2 - De Boomer en de Banaan
-description: Entry in the Advent of Stories series.
+title: De Boomer en de Banaan
+description: Day 1 entry the Advent of Comedy series.
 date: 2024-12-02
 draft: false
 tags:
-  - advent of stories
+  - writing
+  - advent of comedy
 ---
 
-**Entry for the [Advent of Stories](../../advent_of_stories/).**
+**Entry for the [Advent of Comedy](../../advent_of_comedy/).**
 
 **Form: Script for a comedic sketch**
 

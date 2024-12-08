@@ -1,13 +1,14 @@
 ---
-title: Advent of Stories - Day 7 - Superfan Going Overboard
-description: Entry in the Advent of Stories series.
+title: Superfan Going Overboard
+description: Day 7 Entry in the Advent of Comedy series.
 date: 2024-12-07
 draft: false
 tags:
-  - advent of stories
+  - writing
+  - advent of comedy
 ---
 
-**Entry for the [Advent of Stories](../../advent_of_stories/).**
+**Entry for the [Advent of Comedy](../../advent_of_comedy/).**
 
 **Form: Scene for two actors.**
 
