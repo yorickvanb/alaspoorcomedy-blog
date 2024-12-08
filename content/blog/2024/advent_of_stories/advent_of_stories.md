@@ -7,7 +7,7 @@ tags:
   - advent of stories
 eleventyNavigation:
   key: advent of stories
-  order: 3
+  order: 4
 ---
 
 This December, I will write a story every day of Advent. It can be in any form: a comedy sketch, a bit of stand-up, a scene for a play, a monologue, or a short bit of prose.
