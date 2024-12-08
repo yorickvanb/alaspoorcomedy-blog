@@ -62,8 +62,8 @@ body { padding: 1rem; } */
 .postlist-video-playbtn {
   position: absolute;
   z-index: 1;
-  width: 30%;
-  top: 36%;
+  width: 20%;
+  top: 50%;
   left: 50%;
-  transform: translate(-50%, 0%);
+  transform: translate(-50%, -50%);
 }
