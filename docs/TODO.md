@@ -4,6 +4,8 @@
 
 v YT video thumbnails in posts list
 
+- remove Advent of Comedy
+- add css via a main css and import/@forward statements
 - custom thumbnails in posts list
 - center the header
 - make logo
@@ -13,7 +15,6 @@ v YT video thumbnails in posts list
     - Theaterwerkplaats
     - Central School
     - City Academy
-    - WKT
   - Acting theory / swipefile
 
 ## Backlog

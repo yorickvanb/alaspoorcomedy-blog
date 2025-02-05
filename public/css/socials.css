@@ -1,0 +1,20 @@
+
+.socials {
+	display: flex;
+	padding: 0;
+	margin: 0;
+  margin-right: 1em;
+  margin-top: 1em;
+	list-style: none;
+  font-size: 1.5em;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.socials-item {
+	display: inline-block;
+	margin-right: 1em;
+}
+.socials-item a[href]:not(:hover) {
+	text-decoration: none;
+}

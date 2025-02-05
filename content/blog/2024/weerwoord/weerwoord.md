@@ -4,7 +4,7 @@ description: Because who doesn't love a bad pun taken to extremes.
 date: 2024-07-22
 draft: false
 tags:
-  - other
+  - thought bubbles
 thumbnail: ./weerwoord.png
 ---
 

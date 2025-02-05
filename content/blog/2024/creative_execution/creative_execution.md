@@ -4,7 +4,7 @@ description: On how to execute on creative projects.
 date: 2024-09-15
 draft: false
 tags:
-  - other
+  - thought bubbles
 thumbnail: ./creative_execution_small.png
 ---
 
