@@ -2,19 +2,21 @@
 
 ## Active
 
-v YT video thumbnails in posts list
-
 - remove Advent of Comedy
-- add css via a main css and import/@forward statements
 - custom thumbnails in posts list
 - center the header
 - make logo
-- post page: style: center the video
+- post page: style:
+
+  - center the video
+  - put entire post in a card
+
 - Add posts
   - Theatre shows
     - Theaterwerkplaats
     - Central School
     - City Academy
+    - Gluren bij de Buren
   - Acting theory / swipefile
 
 ## Backlog
@@ -27,10 +29,9 @@ v YT video thumbnails in posts list
 - Get ideas from: localghost.dev
   - code: https://github.com/sophiekoonin/localghost
 - front page should show post contents
-- RSS feed
+
 - Style the site
 - Newsletter
-- links to socials
 
 ## Done
 
@@ -39,6 +40,10 @@ v YT video thumbnails in posts list
 - Remove default header
 - search by tag (page that lists tags, or maybe sidebar?)
 - fix routing issue
+- add css via a main css and import/@forward statements
+- YT video thumbnails in posts list
+- RSS feed
+- links to socials
 
 ## Won't Do
 
