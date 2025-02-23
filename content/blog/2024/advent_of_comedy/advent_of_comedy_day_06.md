@@ -1,14 +1,11 @@
 ---
 title: My Inner Voices
-description: Day 6 Entry in the Advent of Comedy series.
+description: Sketch about trying to quiet your inner voices.
 date: 2024-12-06
 draft: false
 tags:
   - writing
-  - advent of comedy
 ---
-
-**Entry for the [Advent of Comedy](../../advent_of_comedy/).**
 
 **Form: Script for a comedic sketch**
 

@@ -2,7 +2,6 @@
 
 ## Active
 
-- remove Advent of Comedy
 - custom thumbnails in posts list
 - center the header
 - make logo

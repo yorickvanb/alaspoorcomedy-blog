@@ -1,14 +1,11 @@
 ---
 title: Superfan Going Overboard
-description: Day 7 Entry in the Advent of Comedy series.
+description: Scene of a Swiftie trying to get her boyfriend in on the fandom.
 date: 2024-12-07
 draft: false
 tags:
   - writing
-  - advent of comedy
 ---
-
-**Entry for the [Advent of Comedy](../../advent_of_comedy/).**
 
 **Form: Scene for two actors.**
 

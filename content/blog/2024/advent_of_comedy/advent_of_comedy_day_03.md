@@ -1,14 +1,11 @@
 ---
 title: The Zoomer and the Snake
-description: Day 3 entry in the Advent of Comedy series.
+description: Sketch about a zoomer who is afraid to make an important phone call.
 date: 2024-12-03
 draft: false
 tags:
   - writing
-  - advent of comedy
 ---
-
-**Entry for the [Advent of Comedy](../../advent_of_comedy/).**
 
 **Form: Script for a comedic sketch**
 

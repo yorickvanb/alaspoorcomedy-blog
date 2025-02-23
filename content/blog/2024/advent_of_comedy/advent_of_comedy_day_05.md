@@ -1,14 +1,11 @@
 ---
 title: Bad Office Coffee
-description: Day 5 entry in the Advent of Comedy series.
+description: Sketch about people from different worlds at the coffee machine.
 date: 2024-12-05
 draft: false
 tags:
   - writing
-  - advent of comedy
 ---
-
-**Entry for the [Advent of Comedy](../../advent_of_comedy/).**
 
 **Form: Script for a comedic sketch**
 
