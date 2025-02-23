@@ -4,77 +4,81 @@ layout: layouts/base.njk
 {# Only include the syntax highlighter CSS on blog posts #}
 {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
 {%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
-<h1>{{ title }}</h1>
 
-<ul class="post-metadata">
-	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
-	{%- for tag in tags | filterTagList %}
-    {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-    <li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
-	{%- endfor %}
-</ul>
+<div class="post-content">
+
+  <h1>{{ title }}</h1>
+
+  <ul class="post-metadata">
+    <li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
+    {%- for tag in tags | filterTagList %}
+      {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+      <li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
+    {%- endfor %}
+  </ul>
 
 
-{% if youtube_video_id %}
+  {% if youtube_video_id %}
+    <p>
+      <div class='video'>
+        <iframe src="https://www.youtube.com/embed/{{youtube_video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </div>
+    </p>
+  {% endif %}
+
   <p>
-    <div class='video'>
-      <iframe src="https://www.youtube.com/embed/{{youtube_video_id}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </div>
+  {{ content | safe }}
   </p>
-{% endif %}
-
-<p>
-{{ content | safe }}
-</p>
 
 
 
-{%- if collections.posts %}
+  {%- if collections.posts %}
 
-  {# Navigate within the current tags: #}
-  {%- for tag in tags | filterTagList %}
-    {% set postsListCurrentTag = collections[ tag ] %}
-    {% if postsListCurrentTag %}
-      {%- set previousPostCurrentTag = postsListCurrentTag | getPreviousCollectionItem %}
-      {%- set nextPostCurrentTag = postsListCurrentTag | getNextCollectionItem %}
+    {# Navigate within the current tags: #}
+    {%- for tag in tags | filterTagList %}
+      {% set postsListCurrentTag = collections[ tag ] %}
+      {% if postsListCurrentTag %}
+        {%- set previousPostCurrentTag = postsListCurrentTag | getPreviousCollectionItem %}
+        {%- set nextPostCurrentTag = postsListCurrentTag | getNextCollectionItem %}
 
+        <ul class="links-prevnext">
+          <div class="links-prev">
+            {%- if previousPostCurrentTag %}
+              <li><a href="{{ previousPostCurrentTag.url }}">🠔 Previous in {{tag}}</a></li>
+            {% endif %}
+          </div>
+          <div class="links-all">
+            {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+            <li><a href="{{ tagUrl }}" class="post-tag">All Posts in {{ tag }}</a></li>
+          </div>
+          <div class="links-next" align="center">
+            {%- if nextPostCurrentTag %}
+              <li><a href="{{ nextPostCurrentTag.url }}">Next in {{tag}} 🠖</a></li>
+            {% endif %}
+          </div>
+
+        </ul>
+      {%- endif %}
+    {%- endfor %}
+
+    {# Navigate within all posts: #}
+    {%- set previousPost = collections.posts | getPreviousCollectionItem %}
+    {%- set nextPost = collections.posts | getNextCollectionItem %}
+    {%- if nextPost or previousPost %}
       <ul class="links-prevnext">
         <div class="links-prev">
-          {%- if previousPostCurrentTag %}
-            <li><a href="{{ previousPostCurrentTag.url }}">🠔 Previous in {{tag}}</a></li>
-          {% endif %}
+          {%- if previousPost %}<li>🠔 <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>{% endif %}
         </div>
         <div class="links-all">
-          {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-          <li><a href="{{ tagUrl }}" class="post-tag">All Posts in {{ tag }}</a></li>
-        </div>
-        <div class="links-next" align="center">
-          {%- if nextPostCurrentTag %}
-            <li><a href="{{ nextPostCurrentTag.url }}">Next in {{tag}} 🠖</a></li>
-          {% endif %}
+            <li><a href="/blog/" class="post-tag">All Posts</a></li>
+          </div>
+        <div class="links-next">
+          {%- if nextPost %}<li><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a> 🠖</li>{% endif %}
         </div>
 
       </ul>
     {%- endif %}
-  {%- endfor %}
 
-  {# Navigate within all posts: #}
-  {%- set previousPost = collections.posts | getPreviousCollectionItem %}
-  {%- set nextPost = collections.posts | getNextCollectionItem %}
-  {%- if nextPost or previousPost %}
-    <ul class="links-prevnext">
-      <div class="links-prev">
-        {%- if previousPost %}<li>🠔 <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>{% endif %}
-      </div>
-      <div class="links-all">
-          <li><a href="/blog/" class="post-tag">All Posts</a></li>
-        </div>
-      <div class="links-next">
-        {%- if nextPost %}<li><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a> 🠖</li>{% endif %}
-      </div>
 
-    </ul>
   {%- endif %}
-
-
-{%- endif %}
+</div>
