@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: solo
+  key: Solo Play
   order: 3
 ---
 

@@ -13,22 +13,37 @@
         {%- endfor %}
       </ul>
       <br>
+      {# Title #}
       <a href="{{ post.url }}" class="postlist-link">
-        {% if post.data.title %}{{ post.data.title }}
+        {% if post.data.title %}
+          {{ post.data.title }}
         {% else %}
           <code>{{ post.url }}</code>
         {% endif %}
       </a>
 
+      {# Thumbnail: #}
       {% if post.data.youtube_video_id %}
-      <div class="postlist-video-div">
-        <img class="postlist-video-image" src="https://img.youtube.com/vi/{{post.data.youtube_video_id}}/hqdefault.jpg">
-        <img class="postlist-video-playbtn" src="/_includes/assets/youtube_play_button.svg" size="50%">
-      </div>
+        <div class="postlist-video-div">
+          <img class="postlist-video-image" src="https://img.youtube.com/vi/{{post.data.youtube_video_id}}/hqdefault.jpg">
+          <img class="postlist-video-playbtn" src="/_includes/assets/youtube_play_button.svg" size="50%">
+        </div>
       {% elif post.data.thumbnail %}
-      <div class="postlist-video-div">
-        <img src="/img/{{post.data.thumbnail}}">
-      </div>
+        <div class="postlist-video-div">
+          <img src="/img/{{post.data.thumbnail}}">
+        </div>
+      {% elif 'theatre' in post.data.tags %}
+        <div class="postlist-video-div">
+          <img src="/_includes/assets/thumbnails/curtains.jpg">
+        </div>
+      {% elif 'writing' in post.data.tags %}
+        <div class="postlist-video-div">
+          <img src="/_includes/assets/thumbnails/writing.png">
+        </div>
+      {% else %}
+        <div class="postlist-video-div">
+          <img src="/_includes/assets/thumbnails/soda_bubbles_macro.jpg">
+        </div>
       {% endif %}
 
       {% if post.data.description %}
