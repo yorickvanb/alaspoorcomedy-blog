@@ -1,13 +1,19 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: Improv Troupe
+  key: Improv Group
   order: 4
 ---
 
-# Improv Troupe
+# Improv Group
 
-These are the members of the Alas Poor Comedy Improv Troupe. Together they perform a improvisation theatre, in a combination of both short-form and long-form.
+Alas Poor Comedy has an improv group! The group is comprised of amazing improvisers of different nationalities. Together they peform (in English!) a show which will be completely improvised! Nothing is written down, everything is made up on the spot.
+
+Whatever they do will be performed live for the very first time, and both for the last time.
+
+What they have agreed on is that it will be a combination of short-form improvisation (separate scenes or games) and long-form improvisation (several scenes strung together).
+
+# Members
 
 <div class="cards">
   <div class="card">
