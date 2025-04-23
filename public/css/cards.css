@@ -31,15 +31,38 @@ body { padding: 1rem; } */
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 
+.center-both-dir-container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 100%;
+}
+
+.center-text-container {
+  text-align: center;
+}
 
 .card-title {
 	display: inline-flex;
 	align-items: center;
-	justify-content: center;
+
 	text-transform: capitalize;
   font-weight: bold;
   text-decoration: none;
   font-size: xx-large;
+}
+
+
+.card-image-container {
+  display: flex;
+  height: 240px;
+  justify-content:center;
+}
+
+.card-image {
+  max-height: 100%;
+  padding: 10px;
 }
 
 .postlist-video-div {
