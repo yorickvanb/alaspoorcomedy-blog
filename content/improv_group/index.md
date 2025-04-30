@@ -16,7 +16,7 @@ What they have agreed on is that it will be a combination of short-form improvis
 # Members
 
 <div class="cards">
-  <div class="card">
+  <div class="card-30">
     <div class="center-text-container">
       <div class="card-title">
         Yorick van Boheemen
@@ -26,13 +26,34 @@ What they have agreed on is that it will be a combination of short-form improvis
       <img src="../_includes/assets/portrait2.png" class="card-image">
     </div>
     <div class="center-text-container">
-        <p>I love to find the funny by playing the truth of a scene.</p>
-        <p><b>Specialities:</b> Finding the game, playing tender dinosaurs</p>
-        <p><b>Find out more:</b> <a href="/">Alas Poor Comedy</a></p>
+      <p>I love to find the funny by playing the truth of a scene.</p>
+      <p><b>Specialities:</b> Finding the game, playing tender dinosaurs</p>
+      <p><b>Find out more:</b> <a href="/">Alas Poor Comedy</a></p>
+    </div>
+  </div>
+
+  <div class="card-30">
+    <div class="center-text-container">
+      <div class="card-title">
+        Brian Fitzgerald
+      </div>
+    </div>
+    <div class="card-image-container">
+      <div class="card-image">
+        {% image "./img/brian_f.jpg", "Brian Fitzgerald" %}
+      <!-- <img src="./brian_f.jpg" class="card-image"> -->
+      </div>
+    </div>
+    <div class="center-text-container">
+      <p></p>
+      <p>Jokes travel faster than facts.</p>
+      <p><b>Specialities:</b> Culture Hacking through comedy, "playing" a doddering old man</p>
+      <p><b>Find out more:</b> <a href="https://www.dancing-fox.com">dancing-fox.com</a></p>
     </div>
 
   </div>
-  <div class="card">
+
+  <div class="card-30">
     <div class="center-both-dir-container">
       <h1><i>More members to follow soon...</i></h1>
     </div>
