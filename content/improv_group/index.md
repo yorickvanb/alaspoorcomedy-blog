@@ -24,7 +24,7 @@ What they have agreed on is that it will be a combination of short-form improvis
     </div>
     <div class="card-image-container">
       <div class="card-image">
-        {% image "./img/yorick_landscape.jpg", "Yorick van Boheemen" %}
+        {% image "./img/yorick_square.jpg", "Yorick van Boheemen" %}
       </div>
     </div>
     <div class="center-text-container">
@@ -62,7 +62,7 @@ What they have agreed on is that it will be a combination of short-form improvis
     </div>
     <div class="card-image-container">
       <div class="card-image">
-        {% image "./img/brian_p_2.jpg", "Brian Pierce" %}
+        {% image "./img/brian_p_3.jpg", "Brian Pierce" %}
       </div>
     </div>
     <div class="center-text-container">
@@ -94,12 +94,12 @@ What they have agreed on is that it will be a combination of short-form improvis
   <div class="card-30">
     <div class="center-text-container">
       <div class="card-title">
-         Manideep Mamindlapally
+        Shikhar Nigam
       </div>
     </div>
     <div class="card-image-container">
       <div class="card-image">
-        {% image "./img/mani.jpg", "Manideep Mamindlapally" %}
+        {% image "./img/shikhar.jpg", "Shikhar Nigam" %}
       </div>
     </div>
     <div class="center-text-container">
@@ -113,12 +113,12 @@ What they have agreed on is that it will be a combination of short-form improvis
   <div class="card-30">
     <div class="center-text-container">
       <div class="card-title">
-        Shikhar Nigam
+         Manideep Mamindlapally
       </div>
     </div>
     <div class="card-image-container">
       <div class="card-image">
-        {% image "./img/shikhar.jpg", "Shikhar Nigam" %}
+        {% image "./img/mani.jpg", "Manideep Mamindlapally" %}
       </div>
     </div>
     <div class="center-text-container">
