@@ -50,13 +50,103 @@ What they have agreed on is that it will be a combination of short-form improvis
       <p><b>Specialities:</b> Culture Hacking through comedy, "playing" a doddering old man</p>
       <p><b>Find out more:</b> <a href="https://www.dancing-fox.com">dancing-fox.com</a></p>
     </div>
-
   </div>
 
   <div class="card-30">
+    <div class="center-text-container">
+      <div class="card-title">
+        Aria Bennett
+      </div>
+    </div>
+    <div class="card-image-container">
+      <div class="card-image">
+      </div>
+    </div>
+    <div class="center-text-container">
+      <p></p>
+      <p></p>
+      <p><b>Specialities:</b> </p>
+      <p><b>Find out more:</b> <a href="ariabennett.com">ariabennett.com</a></p>
+    </div>
+  </div>
+
+  <div class="card-30">
+    <div class="center-text-container">
+      <div class="card-title">
+        Brian Pierce
+      </div>
+    </div>
+    <div class="card-image-container">
+      <div class="card-image">
+      </div>
+    </div>
+    <div class="center-text-container">
+      <p></p>
+      <p></p>
+      <p><b>Specialities:</b> </p>
+      <p><b>Find out more:</b> <a href=""></a></p>
+    </div>
+  </div>
+
+  <div class="card-30">
+    <div class="center-text-container">
+      <div class="card-title">
+         Manideep Mamindlapally
+      </div>
+    </div>
+    <div class="card-image-container">
+      <div class="card-image">
+      </div>
+    </div>
+    <div class="center-text-container">
+      <p></p>
+      <p></p>
+      <p><b>Specialities:</b> </p>
+      <p><b>Find out more:</b> <a href=""></a></p>
+    </div>
+  </div>
+
+  <div class="card-30">
+    <div class="center-text-container">
+      <div class="card-title">
+        Shikhar Nigam
+      </div>
+    </div>
+    <div class="card-image-container">
+      <div class="card-image">
+      </div>
+    </div>
+    <div class="center-text-container">
+      <p></p>
+      <p></p>
+      <p><b>Specialities:</b> </p>
+      <p><b>Find out more:</b> <a href=""></a></p>
+    </div>
+  </div>
+
+  <!-- <div class="card-30">
+    <div class="center-text-container">
+      <div class="card-title">
+        NAME
+      </div>
+    </div>
+    <div class="card-image-container">
+      <div class="card-image">
+
+      </div>
+    </div>
+    <div class="center-text-container">
+      <p></p>
+      <p></p>
+      <p><b>Specialities:</b> </p>
+      <p><b>Find out more:</b> <a href=""></a></p>
+    </div>
+  </div> -->
+
+  <!-- <div class="card-30">
     <div class="center-both-dir-container">
       <h1><i>More members to follow soon...</i></h1>
-    </div>
+    </div> -->
 
   </div>
 </div>
