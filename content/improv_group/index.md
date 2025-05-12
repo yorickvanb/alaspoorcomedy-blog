@@ -23,10 +23,13 @@ What they have agreed on is that it will be a combination of short-form improvis
       </div>
     </div>
     <div class="card-image-container">
-      {% image "./img/yorick_landscape.jpg", "Yorick van Boheemen" %}
+      <div class="card-image">
+        {% image "./img/yorick_landscape.jpg", "Yorick van Boheemen" %}
+      </div>
     </div>
     <div class="center-text-container">
-      <p>I love to find the funny by playing the truth of a scene.</p>
+      <p></p>
+      <p><b>What I love about improv:</b> finding the funny by playing the truth of a scene.</p>
       <p><b>Specialities:</b> Finding the game, playing tender dinosaurs</p>
       <p><b>Find out more:</b> <a href="/">Alas Poor Comedy</a></p>
     </div>
@@ -45,9 +48,28 @@ What they have agreed on is that it will be a combination of short-form improvis
     </div>
     <div class="center-text-container">
       <p></p>
-      <p>Jokes travel faster than facts.</p>
+      <p><b>What I love about improv:</b> Jokes travel faster than facts.</p>
       <p><b>Specialities:</b> Culture Hacking through comedy, "playing" a doddering old man</p>
       <p><b>Find out more:</b> <a href="https://www.dancing-fox.com">dancing-fox.com</a></p>
+    </div>
+  </div>
+
+  <div class="card-30">
+    <div class="center-text-container">
+      <div class="card-title">
+        Brian Pierce
+      </div>
+    </div>
+    <div class="card-image-container">
+      <div class="card-image">
+        {% image "./img/brian_p_2.jpg", "Brian Pierce" %}
+      </div>
+    </div>
+    <div class="center-text-container">
+      <p></p>
+      <p></p>
+      <p><b>What I love about improv:</b> The joy of exploration and creation without mostly all of the pillaging and colonialism.</p>
+      <p><b>Specialities:</b> Jaded cynic, voice of reason, any character who truly enjoys a fresh slice of pie.</p>
     </div>
   </div>
 
@@ -64,28 +86,8 @@ What they have agreed on is that it will be a combination of short-form improvis
     </div>
     <div class="center-text-container">
       <p></p>
-      <p></p>
-      <p><b>Specialities:</b> </p>
+      <!-- <p><b>Specialities:</b> </p> -->
       <p><b>Find out more:</b> <a href="ariabennett.com">ariabennett.com</a></p>
-    </div>
-  </div>
-
-  <div class="card-30">
-    <div class="center-text-container">
-      <div class="card-title">
-        Brian Pierce
-      </div>
-    </div>
-    <div class="card-image-container">
-      <div class="card-image">
-        {% image "./img/brian_p.jpg", "Brian Pierce" %}
-      </div>
-    </div>
-    <div class="center-text-container">
-      <p></p>
-      <p></p>
-      <p><b>Specialities:</b> </p>
-      <p><b>Find out more:</b> <a href=""></a></p>
     </div>
   </div>
 
@@ -101,10 +103,10 @@ What they have agreed on is that it will be a combination of short-form improvis
       </div>
     </div>
     <div class="center-text-container">
-      <p></p>
+      <!-- <p></p>
       <p></p>
       <p><b>Specialities:</b> </p>
-      <p><b>Find out more:</b> <a href=""></a></p>
+      <p><b>Find out more:</b> <a href=""></a></p> -->
     </div>
   </div>
 
@@ -120,10 +122,10 @@ What they have agreed on is that it will be a combination of short-form improvis
       </div>
     </div>
     <div class="center-text-container">
-      <p></p>
+      <!-- <p></p>
       <p></p>
       <p><b>Specialities:</b> </p>
-      <p><b>Find out more:</b> <a href=""></a></p>
+      <p><b>Find out more:</b> <a href=""></a></p> -->
     </div>
   </div>
 
