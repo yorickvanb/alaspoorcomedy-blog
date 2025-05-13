@@ -87,7 +87,7 @@ What they have agreed on is that it will be a combination of short-form improvis
     <div class="center-text-container">
       <p></p>
       <!-- <p><b>Specialities:</b> </p> -->
-      <p><b>Find out more:</b> <a href="ariabennett.com">ariabennett.com</a></p>
+      <p><b>Find out more:</b> <a href="https://ariabennett.com">ariabennett.com</a></p>
     </div>
   </div>
 
