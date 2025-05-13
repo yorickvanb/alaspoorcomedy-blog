@@ -94,20 +94,21 @@ What they have agreed on is that it will be a combination of short-form improvis
   <div class="card-30">
     <div class="center-text-container">
       <div class="card-title">
-        Shikhar Nigam
+        Shikhar
       </div>
     </div>
     <div class="card-image-container">
       <div class="card-image">
-        {% image "./img/shikhar.jpg", "Shikhar Nigam" %}
+        {% image "./img/shikhar_2.jpg", "Shikhar" %}
       </div>
     </div>
     <div class="center-text-container">
-      <!-- <p></p>
       <p></p>
-      <p><b>Specialities:</b> </p>
-      <p><b>Find out more:</b> <a href=""></a></p> -->
-    </div>
+      <p><b>What I love about improv:</b> the mild existential relief that it brings</p>
+      <p><b>Specialities:</b> Escaping the pun police 👮🏽‍♂️</p>
+      <p><b>Find out more:</b> <a href="theflintquill.substack.com">theflintquill.substack.com</a></p>
+</div>
+
   </div>
 
   <div class="card-30">
