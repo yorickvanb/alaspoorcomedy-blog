@@ -16,7 +16,7 @@ What they have agreed on is that it will be a combination of short-form improvis
 # Members
 
 <div class="cards">
-  <div class="card-30">
+  <div class="card-32">
     <div class="center-text-container">
       <div class="card-title">
         Yorick van Boheemen
@@ -28,14 +28,13 @@ What they have agreed on is that it will be a combination of short-form improvis
       </div>
     </div>
     <div class="center-text-container">
-      <p></p>
       <p><b>What I love about improv:</b> finding the funny by playing the truth of a scene.</p>
       <p><b>Specialities:</b> Finding the game, playing tender dinosaurs</p>
       <p><b>Find out more:</b> <a href="/">Alas Poor Comedy</a></p>
     </div>
   </div>
 
-  <div class="card-30">
+  <div class="card-32">
     <div class="center-text-container">
       <div class="card-title">
         Brian Fitzgerald
@@ -47,14 +46,13 @@ What they have agreed on is that it will be a combination of short-form improvis
       </div>
     </div>
     <div class="center-text-container">
-      <p></p>
       <p><b>What I love about improv:</b> Jokes travel faster than facts.</p>
       <p><b>Specialities:</b> Culture Hacking through comedy, "playing" a doddering old man</p>
       <p><b>Find out more:</b> <a href="https://www.dancing-fox.com">dancing-fox.com</a></p>
     </div>
   </div>
 
-  <div class="card-30">
+  <div class="card-32">
     <div class="center-text-container">
       <div class="card-title">
         Brian Pierce
@@ -66,14 +64,12 @@ What they have agreed on is that it will be a combination of short-form improvis
       </div>
     </div>
     <div class="center-text-container">
-      <p></p>
-      <p></p>
       <p><b>What I love about improv:</b> The joy of exploration and creation without mostly all of the pillaging and colonialism.</p>
       <p><b>Specialities:</b> Jaded cynic, voice of reason, any character who truly enjoys a fresh slice of pie.</p>
     </div>
   </div>
 
-  <div class="card-30">
+  <div class="card-32">
     <div class="center-text-container">
       <div class="card-title">
         Aria Bennett
@@ -85,13 +81,12 @@ What they have agreed on is that it will be a combination of short-form improvis
       </div>
     </div>
     <div class="center-text-container">
-      <p></p>
       <!-- <p><b>Specialities:</b> </p> -->
       <p><b>Find out more:</b> <a href="https://ariabennett.com">ariabennett.com</a></p>
     </div>
   </div>
 
-  <div class="card-30">
+  <div class="card-32">
     <div class="center-text-container">
       <div class="card-title">
         Shikhar
@@ -103,7 +98,6 @@ What they have agreed on is that it will be a combination of short-form improvis
       </div>
     </div>
     <div class="center-text-container">
-      <p></p>
       <p><b>What I love about improv:</b> the mild existential relief that it brings</p>
       <p><b>Specialities:</b> Escaping the pun police 👮🏽‍♂️</p>
       <p><b>Find out more:</b> <a href="theflintquill.substack.com">theflintquill.substack.com</a></p>
@@ -111,7 +105,7 @@ What they have agreed on is that it will be a combination of short-form improvis
 
   </div>
 
-  <div class="card-30">
+  <div class="card-32">
     <div class="center-text-container">
       <div class="card-title">
          Manideep Mamindlapally
@@ -119,18 +113,17 @@ What they have agreed on is that it will be a combination of short-form improvis
     </div>
     <div class="card-image-container">
       <div class="card-image">
-        {% image "./img/mani.jpg", "Manideep Mamindlapally" %}
+        {% image "./img/mani_2.jpg", "Manideep Mamindlapally" %}
       </div>
     </div>
     <div class="center-text-container">
-      <!-- <p></p>
-      <p></p>
-      <p><b>Specialities:</b> </p>
-      <p><b>Find out more:</b> <a href=""></a></p> -->
+      <p><b>What I love about improv:</b> An excuse to act stupid and do shrill voices.</p>
+      <p><b>Specialities:</b> Playing waiting tables, taking orders and redundant repeats of lines</p>
+      <p><b>Find out more:</b> <a href="http://manideepmamindlapally.github.io">manideepmamindlapally.github.io</a></p>
     </div>
   </div>
 
-  <!-- <div class="card-30">
+  <!-- <div class="card-32">
     <div class="center-text-container">
       <div class="card-title">
         NAME
@@ -149,7 +142,7 @@ What they have agreed on is that it will be a combination of short-form improvis
     </div>
   </div> -->
 
-  <!-- <div class="card-30">
+  <!-- <div class="card-32">
     <div class="center-both-dir-container">
       <h1><i>More members to follow soon...</i></h1>
     </div> -->
