@@ -7,5 +7,8 @@ eleventyNavigation:
 
 # About me
 
-I am Yorick and I am a passionate actor, writer, and theatre maker.
-I love stories and silly things. That's why I make comedy.
+I am an actor, improv comedian and sketch writer.
+
+I believe in the power of trust, collaboration, and humour to bring people together.
+
+That is why I love to make comedy with other people.
