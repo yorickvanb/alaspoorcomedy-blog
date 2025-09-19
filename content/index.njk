@@ -7,12 +7,6 @@ numberOfLatestPostsToShow: 6
 
 <hr>
 
-<h2>What I'm working on</h2>
-
-{% include "./tags-list.njk" %}
-
-<hr>
-
 
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}

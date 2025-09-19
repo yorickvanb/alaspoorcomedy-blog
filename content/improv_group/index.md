@@ -94,7 +94,7 @@ What they have agreed on is that it will be a combination of short-form improvis
     </div>
     <div class="card-image-container">
       <div class="card-image">
-        {% image "./img/shikhar_2.jpg", "Shikhar" %}
+        {% image "./img/shikhar_2.jpg", "Shikhar" %}a
       </div>
     </div>
     <div class="center-text-container">
